@@ -20,7 +20,7 @@ import TheWelcome from './components/TheWelcome.vue'
           <CIcon :icon="cilList" size="md"/>
           <CIcon :icon="cilShieldAlt" size="md"/>
 
-          <button>Sign In</button>
+          <button>Sign Up</button>
         </div>
       </header>
     </banner>
